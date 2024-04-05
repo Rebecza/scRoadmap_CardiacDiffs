@@ -1,5 +1,6 @@
 # scRoadmap_CardiacDiffs
-scRoadmap of multilineage cardiac differentiations manuscript
+scRoadmap of multilineage cardiac differentiations manuscript is in preparation.
+This repository contains the scripts used to perform the analysis and produce the figures as shown in the manuscript (link to manuscript follows).
 
 scRoadmap dataset for iSEE visualization can be found here:
 
